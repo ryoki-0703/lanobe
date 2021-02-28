@@ -29,5 +29,3 @@ https://docs.google.com/spreadsheets/d/1T70Twq-H-o_2dShCrGkJI-9W4PIss9JvMgZxukMp
 - JSライブラリ：jQuery
 - IDE：Cloud9
 
-## 使用素材
-ebook       url:   https://ebookjapan.yahoo.co.jp/genre/light-novel/
