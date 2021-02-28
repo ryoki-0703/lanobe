@@ -15,7 +15,8 @@
 ラノベの感想を書いたり、次に読むラノベを見つける参考にするとき
 
 ## 設計書
-ER図　https://app.diagrams.net/?src=about#G10aoIUj8VL-4MX8AHPZCdsy-hb8PfiZG7
+ER図　
+https://app.diagrams.net/?src=about#G10aoIUj8VL-4MX8AHPZCdsy-hb8PfiZG7
 
 テーブル定義書　https://docs.google.com/spreadsheets/d/1B041T0eXDNm8gZWSVTgW6fgC8FNP3Lf0AAAfnZeZp5I/edit#gid=0　
 
